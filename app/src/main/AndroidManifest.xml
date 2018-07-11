@@ -27,7 +27,7 @@
         <provider
             android:name=".provider.PlantContentProvider"
             android:authorities="com.example.android.mygarden"
-            android:exported="false" />
+            android:exported="true" />
 
         <activity
             android:name=".ui.MainActivity"
